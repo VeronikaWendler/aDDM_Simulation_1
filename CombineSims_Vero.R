@@ -1,5 +1,5 @@
 # 3. Step: Combing the aDDM simulations from Simulation_ADDM_Vero file, according to Krajbich et al. (2011)
-# the goal is to figure out whether fitting the aDDM on simulated data can give me a good idea of the effect and sample size I will need, to investigate the overall value effect
+# the goal is to figure out whether fitting the aDDM on simulated data can give a good estimate of the effect and sample size to investigate the overall value effect
 #rm(list = ls())
 
 library(plyr);
