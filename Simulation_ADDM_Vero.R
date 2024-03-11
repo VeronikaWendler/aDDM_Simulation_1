@@ -18,7 +18,7 @@ fixOptions<-500
 # Low OV and VD conditions
 lowValVD2 <- c(1, 3)      # OV = 4    # VD = 2 low
 midValVD4 <- c(2, 6)      # OV = 8    # VD = 4 high
-modValVD4 <- c(4, 8)      # OV = 12    # VD = 4 low
+modValVD4 <- c(4, 8)      # OV = 12    # VD = 4 high
 highValVD2 <- c(7, 9)     # OV = 16    # VD = 2 low
 
 # Constructing valMat matrix
